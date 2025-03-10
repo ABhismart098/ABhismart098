@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://photos.google.com/u/5/photo/AF1QipMX8hp3FmeKvN5O-PNZVv-QsXppNQUPKJNZS46P" alt="Banner" width="100%">
+  <img src="https://photos.app.goo.gl/cWgemuHFmnxWHnjh8" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate MERN stack developer and I love coding</h3>
