@@ -62,10 +62,12 @@
 </p>
 
 <p>
- <h3 align="left">Contribution Graph:</h3>
+ <!-- Pie Chart for Languages -->
+<h3 align="left">Language Usage (Pie Chart):</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhismart098&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhismart098&layout=pie&theme=react&hide_border=true" alt="Language Pie Chart" />
 </p>
+
 </p>
 
 
