@@ -60,8 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
   </a>
 </p>
-<p>
-  <h3 align="left">Languages & Tools (Stick Chart)</h3>
+<h3 align="left">Languages & Tools (Stick Chart)</h3>
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
@@ -85,7 +84,6 @@
   alt="Languages and Tools Stick Chart" width="700">
 </p>
 
-</p>
 
 <p>
 <!-- GitHub Contribution Graph -->
