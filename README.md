@@ -60,6 +60,32 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
   </a>
 </p>
+<p>
+  <h3 align="left">Languages & Tools (Stick Chart)</h3>
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'bar',
+    data:{
+      labels:['JavaScript','React','Node.js','Express','MongoDB','Java','HTML','CSS','Spring','Spring Boot','Vite','MySQL','PostgreSQL','Git'],
+      datasets:[{
+        label:'Skill Level',
+        data:[90,85,80,78,82,75,95,90,70,68,72,75,60,85],
+        borderWidth:2
+      }]
+    },
+    options:{
+      legend:{display:false},
+      scales:{
+        xAxes:[{ticks:{fontSize:10}}],
+        yAxes:[{ticks:{beginAtZero:true,max:100}}]
+      }
+    }
+  }" 
+  alt="Languages and Tools Stick Chart" width="700">
+</p>
+
+</p>
 
 <p>
 <!-- GitHub Contribution Graph -->
@@ -70,6 +96,7 @@
 
 
 </p>
+
 
 
 
