@@ -62,10 +62,10 @@
 </p>
 
 <p>
-  <!-- GitHub Streak -->
-  <a href="https://github.com/abhismart098" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master/img/streak-stats.svg" alt="GitHub Streak" width="40" height="40"/>
-  </a>
+ <h3 align="left">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhismart098&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 </p>
 
 
